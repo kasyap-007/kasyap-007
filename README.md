@@ -1,4 +1,5 @@
 
+![Header](./github-header.png)
 # Hi there 👋, My name is Rishi Kasyap
 
 I am a self taught Full stack Web developer and an Indie hacker building aesthetic and functional products.
@@ -7,8 +8,8 @@ I am a self taught Full stack Web developer and an Indie hacker building aesthet
 <p>🔭 I'm currently working on Flow</p>
 <p>🌱 I'm currently learning TypeScript, Nginx, Docker</p>
 <p>💬 Ask me about React, Node js, Tailwind</p>
-<p>I regularly write articles on <a href="https://rishikasyap.com/projects">portfolio</a></p>
-<p>All of my projects are available at <a href="https://rishikasyap.com">My personal website</a></p>
+<p> All of my projects are available at <a href="https://rishikasyap.com/projects">portfolio</a></p>
+<p> I regularly write articles on <a href="https://rishikasyap.com">My personal website</a></p>
 
 ## 💻 Skills
 <p>
@@ -30,11 +31,9 @@ I am a self taught Full stack Web developer and an Indie hacker building aesthet
 <p>
 <a href="https://linkedin.com/in/rishikasyap"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/rishikasyap"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://codepen.io/Rishi-Kasyap"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
 
 ## 🏆 GitHub Trophies
 
@@ -46,5 +45,9 @@ I am a self taught Full stack Web developer and an Indie hacker building aesthet
 <p><img src="https://github-readme-stats.vercel.app/api?username=kasyap-007&show_icons=true"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasyap-007&layout=compact"><p>
+
+<p><img src="https://metrics.lecoq.io/kasyap-007"><p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kasyap-007"><p>
 
 <p><img src="https://visitcount.itsvg.in/api?id=kasyap-007&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
