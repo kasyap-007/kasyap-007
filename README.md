@@ -46,8 +46,4 @@ I am a self taught Full stack Web developer and an Indie hacker building aesthet
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasyap-007&layout=compact"><p>
 
-
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kasyap-007"><p>
-
 <p><img src="https://visitcount.itsvg.in/api?id=kasyap-007&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
