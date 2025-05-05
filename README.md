@@ -4,7 +4,7 @@
 
 I am a self taught Full stack Web developer and an Indie hacker building aesthetic and functional products.
 
-## 💫 Liitle Bit More About Me
+## 💫 Little Bit More About Me
 <p>🔭 I'm currently working on <a href='https://flow.rishikasyap.com'>Setway</a></p>
 <p>🌱 I'm currently learning Typescript, Backend Development</p>
 <p>💬 Ask me about React, Node js, Tailwind</p>
